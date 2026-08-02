@@ -57,13 +57,16 @@ h1{
     min-width:90px;
 }
 
-.caja span{
-    font-size:2rem;
-    font-weight:bold;
+.caja span {
+    font-size: 2rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8); /* Sombra oscura para los números */
 }
 
-.caja p{
-    margin-top:8px;
+.caja p {
+    margin-top: 8px;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8); /* Sombra oscura para las palabras */
 }
 
 button{
