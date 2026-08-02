@@ -38,7 +38,7 @@ boton.addEventListener("click",()=>{
     }else{
 
         audio.pause();
-        boton.textContent="❤️ Reproducir nuestra canción";
+        boton.textContent="❤️ Reproducir canción";
 
     }
 
