@@ -7,14 +7,13 @@
 
 body{
     height:100vh;
-    background-image:url("0f0b316b-d827-490d-ba3f-16f4c56702de.jpeg");
+background-image:url("IMG_2370.jpeg");
     background-size:cover;
     background-position:center;
     display:flex;
     justify-content:center;
     align-items:center;
     overflow:hidden;
-    animation:cambiarFondo 25s infinite;
 }
 
 .overlay{
@@ -79,20 +78,4 @@ button{
 
 button:hover{
     transform:scale(1.05);
-}
-
-@keyframes cambiarFondo{
-
-0%{background-image:url("0f0b316b-d827-490d-ba3f-16f4c56702de.jpeg");}
-
-20%{background-image:url("7ef0b7f0-43ab-4f0c-baaa-c66a5c5331c6.jpeg");}
-
-40%{background-image:url("IMG_1644.jpeg");}
-
-60%{background-image:url("IMG_2177.jpeg");}
-
-80%{background-image:url("IMG_2370.jpeg");}
-
-100%{background-image:url("0f0b316b-d827-490d-ba3f-16f4c56702de.jpeg");}
-
 }
