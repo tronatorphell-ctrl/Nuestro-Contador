@@ -7,7 +7,7 @@
 
 body{
     height:100vh;
-    background-image:url("foto1.jpg");
+    background-image:url("0f0b316b-d827-490d-ba3f-16f4c56702de.jpeg");
     background-size:cover;
     background-position:center;
     display:flex;
@@ -83,16 +83,16 @@ button:hover{
 
 @keyframes cambiarFondo{
 
-0%{background-image:url("foto1.jpg");}
+0%{background-image:url("0f0b316b-d827-490d-ba3f-16f4c56702de.jpeg");}
 
-20%{background-image:url("foto2.jpg");}
+20%{background-image:url("7ef0b7f0-43ab-4f0c-baaa-c66a5c5331c6.jpeg");}
 
-40%{background-image:url("foto3.jpg");}
+40%{background-image:url("IMG_1644.jpeg");}
 
-60%{background-image:url("foto4.jpg");}
+60%{background-image:url("IMG_2177.jpeg");}
 
-80%{background-image:url("foto5.jpg");}
+80%{background-image:url("IMG_2370.jpeg");}
 
-100%{background-image:url("foto1.jpg");}
+100%{background-image:url("0f0b316b-d827-490d-ba3f-16f4c56702de.jpeg");}
 
 }
